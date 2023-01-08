@@ -13,3 +13,5 @@ Here you find all projects belonging to Modernism in Architecture, at the moment
 - [An iOS app](https://apps.apple.com/de/app/modernism-in-architecture/id1609862283?l=en)
 - [An Android app](https://play.google.com/store/apps/details?id=org.modernism_in_architecture.mia)
 - [A twitter bot](https://twitter.com/MIA_buildings)
+
+Email: hello@modernism-in-architecture.org
